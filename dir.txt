@@ -3,8 +3,8 @@
 
  Directory of C:\work\repo\user\Marcus-James-Adams\AzSpeedTest
 
-08/10/2019  15:30    <DIR>          .
-08/10/2019  15:30    <DIR>          ..
+08/10/2019  15:54    <DIR>          .
+08/10/2019  15:54    <DIR>          ..
 08/10/2019  12:59                 8 .gitattributes
 08/10/2019  12:59    <DIR>          .github
 08/10/2019  12:59                16 .gitignore
@@ -13,12 +13,12 @@
 08/10/2019  12:59    <DIR>          AzSpeedTest
 08/10/2019  12:59               976 build.ps1
 08/10/2019  12:59               429 CHANGELOG.md
+08/10/2019  15:54                 0 dir.txt
 08/10/2019  12:59             1,069 LICENSE
 08/10/2019  12:59             2,538 psakeFile.ps1
 08/10/2019  12:59             2,563 README.bak.md
 08/10/2019  12:59             2,563 README.md
 08/10/2019  12:59               141 requirements.psd1
-08/10/2019  15:30                 0 test.txt
 08/10/2019  12:59    <DIR>          Tests
               11 File(s)         10,558 bytes
-               6 Dir(s)  352,359,653,376 bytes free
+               6 Dir(s)  352,348,549,120 bytes free
